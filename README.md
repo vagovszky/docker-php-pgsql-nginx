@@ -4,7 +4,7 @@ Docker composed image containing php-fpm, postgres and nginx
 # Usage
 `docker-compose up`
 
-Working directory is *application*
+Working directory is *public*
 
 # Available ports
 - 80 - Nginx HTTP
